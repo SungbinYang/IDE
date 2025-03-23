@@ -26,3 +26,7 @@
 
 - 자동완성
 - Live Template
+
+## 리팩토링
+
+- 리팩토링 Extract

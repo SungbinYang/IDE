@@ -8,10 +8,10 @@ public class FocusCopy {
     public void copyFocus() {
         List<String> members = new ArrayList<>();
 
-        members.add(new Member().getCourse());
-        members.add(new Member().getCourse());
-        members.add(new Member().getCourse());
-        members.add(new Member().getCourse());
-        members.add(new Member().getCourse());
+        members.add(new Book().getCourse());
+        members.add(new Book().getCourse());
+        members.add(new Book().getCourse());
+        members.add(new Book().getCourse());
+        members.add(new Book().getCourse());
     }
 }

@@ -1,6 +1,6 @@
 package me.sungbin.inflearn.intellij.chap2.special;
 
-public class Member {
+public class Book {
 
     private String name = "robert";
 
