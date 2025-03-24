@@ -39,3 +39,4 @@
 ## Git & Github
 
 - Git 기본 기능 사용하기
+- Github 연동하기
